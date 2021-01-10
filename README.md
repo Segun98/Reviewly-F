@@ -1,24 +1,6 @@
-# reviewly
+# Reviewly
 
-## Project setup
-```
-yarn install
-```
+## Post reviews about apartments in Lagos
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### My second Vue App
