@@ -37,9 +37,9 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  font-family: "Open Sans", sans-serif;
   font-family: "East Sea Dokdo", cursive;
-  font-family: "Roboto", sans-serif !important;
+  // font-family: "Roboto", sans-serif !important;
+  font-family: "Open Sans", sans-serif;
   background: var(--background);
 }
 
