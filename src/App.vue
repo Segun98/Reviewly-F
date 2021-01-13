@@ -47,6 +47,9 @@ a {
   }
 }
 
+h1 {
+  font-weight: 600;
+}
 li {
   list-style: none;
 }
