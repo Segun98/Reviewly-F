@@ -15,9 +15,7 @@ export default {
 };
 </script>
 <style lang="scss" global>
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;600&display=swap");
 
 :root {
   --header: #333333;
@@ -37,14 +35,13 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  font-family: "East Sea Dokdo", cursive;
-  // font-family: "Roboto", sans-serif !important;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Quicksand", sans-serif !important;
   background: var(--background);
 }
 
 a {
   text-decoration: none;
+  font-weight: 600;
   &:hover {
     text-decoration: none;
   }
